@@ -55,7 +55,7 @@ localhost:3000
 
 ---
 ## 📝 Licença
-Copyright © 2020 [@ElisioWander](https://github.com/ElisioWander/ignite-challenge-01/blob/main/LICENSE)
+Copyright © 2020 [@ElisioWander](https://github.com/ElisioWander/ignite-challenge-02/blob/master/LICENSE)
 
 Este projeto está sobe a [LICENÇA MIT](https://opensource.org/licenses/MIT)
 
